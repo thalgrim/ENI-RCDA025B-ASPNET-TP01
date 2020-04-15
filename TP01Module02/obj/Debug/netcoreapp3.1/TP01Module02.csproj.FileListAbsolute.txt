@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.exe
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.deps.json
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.runtimeconfig.json
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.runtimeconfig.dev.json
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.dll
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\bin\Debug\netcoreapp3.1\TP01Module02.pdb
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.AssemblyInfo.cs
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.dll
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.pdb
+C:\Users\Utilisateur\source\repos\TP01Module02\TP01Module02\obj\Debug\netcoreapp3.1\TP01Module02.genruntimeconfig.cache
